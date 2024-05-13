@@ -69,8 +69,3 @@ export default function VarificationEmail(
 </Html>
    );
 }
-       
-
-
-    
-}
